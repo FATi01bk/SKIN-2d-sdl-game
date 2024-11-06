@@ -1,2 +1,2 @@
 Skin
-Le projet demande est un jeu 2d sur système ubuntu avec la bibliothèque SDL (image,vidéo,ttf,mix,..) Il est composé de menu(new game/load game/multiplayer/option(son/luminosité/contrast)/quitter avec un fond musical et des boutons pour cliquer.
+The game includes a full menu with options like "New Game," "Quit Game," and "Options" (sound, profile, full screen, and shop). It features background music and interactive buttons for an engaging user experience.
